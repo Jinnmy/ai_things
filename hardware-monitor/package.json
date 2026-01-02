@@ -1,0 +1,14 @@
+{
+    "name": "hardware-monitor",
+    "version": "1.0.0",
+    "description": "Hardware monitoring and health prediction module",
+    "main": "monitor.js",
+    "scripts": {
+        "test": "node monitor.js"
+    },
+    "dependencies": {
+        "onnxruntime-node": "^1.20.0"
+    },
+    "author": "",
+    "license": "ISC"
+}
