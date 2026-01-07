@@ -1,0 +1,8 @@
+torch
+onnx
+onnxruntime
+Pillow
+numpy
+transformers
+optimum[onnxruntime]
+python-docx
